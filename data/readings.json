@@ -1,0 +1,5 @@
+[
+  {"park": "P01", "window_start": "2026-01-01T00:00:00", "window_end": "2026-01-31T23:59:59", "energy": 3120, "unit": "MWh", "capacity": 4.2, "capacity_unit": "EFLOPS"},
+  {"park": "P02", "window_start": "2026-01-10T00:00:00", "window_end": "2026-01-31T23:59:59", "energy": 880, "unit": "MWh", "capacity": 1.1, "capacity_unit": "EFLOPS"},
+  {"park": "P01", "window_start": "2026-01-01T00:00:00", "window_end": "2026-01-31T23:59:59", "energy": 3190, "unit": "MWh", "capacity": 4.2, "capacity_unit": "EFLOPS", "kind": "calibration"}
+]
